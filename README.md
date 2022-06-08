@@ -1,5 +1,5 @@
 # Auto_tests
-My autotests from Stepik course (Selenium + Python)
+Here are my autotests from Stepik course (Selenium + Python)
 https://stepik.org/course/575/info
 
 
