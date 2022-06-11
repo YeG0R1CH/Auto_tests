@@ -28,12 +28,12 @@ time.sleep(2)
 
 #email_input = driver.find_element_by_id('id_login_email')
 email_input = driver.find_element(By.ID, 'id_login_email')
-email_input.send_keys("yeg0rr@mail.ru")
+email_input.send_keys("yerr@mail.ru")
 time.sleep(2)
 
 #password_input = driver.find_element_by_id('id_login_password')
 password_input = driver.find_element(By.ID, 'id_login_password')
-password_input.send_keys("Ztujh1996stepik")
+password_input.send_keys("Zt")
 time.sleep(2)
 
 
